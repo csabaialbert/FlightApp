@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightApp.Server", "FlightApp.Server\FlightApp.Server.csproj", "{870A0868-BAD0-42C1-BB20-227FBA94EDD3}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "flightapp.client", "flightapp.client\flightapp.client.esproj", "{7091F51C-78D4-4EA1-963E-09A6B5749712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870A0868-BAD0-42C1-BB20-227FBA94EDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870A0868-BAD0-42C1-BB20-227FBA94EDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870A0868-BAD0-42C1-BB20-227FBA94EDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870A0868-BAD0-42C1-BB20-227FBA94EDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7091F51C-78D4-4EA1-963E-09A6B5749712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7091F51C-78D4-4EA1-963E-09A6B5749712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7091F51C-78D4-4EA1-963E-09A6B5749712}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7091F51C-78D4-4EA1-963E-09A6B5749712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7091F51C-78D4-4EA1-963E-09A6B5749712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7091F51C-78D4-4EA1-963E-09A6B5749712}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62814415-759D-484E-B148-83EB4890C082}
+	EndGlobalSection
+EndGlobal
